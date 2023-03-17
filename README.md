@@ -2,10 +2,8 @@
 
 <p align="center"><samp>~</samp></p>
 
-<p align="center"><samp>About me:</samp></p>
-<p align="center"><samp>• 1st Year Computer Science Student from Italy</samp></p>
-<p align="center"><samp>• I enjoy programming simple games and applications</samp></p>
-<p align="center"><samp>• Trying to get good at dance games too! (ITG)</samp></p>
+<p align="center"><samp>I'm a 1st Year Computer Science Student from Italy and an aspirant programmer and developer</samp></p>
+<p align="center"><samp>Besides programming I really enjoy dance games too, like <a href="https://www.youtube.com/watch?v=wiOOOAw2AfY">ITG</a>! 🙂 </samp></p>
 
 
 <p align="center"><samp>~</samp></p>
@@ -27,7 +25,7 @@
 <p align="center"><samp>Tools I've learned and use(d):</samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,eclipse,vscode,visualstudio,autocad,git,github" />
+    <img src="https://skillicons.dev/icons?i=idea,discord,eclipse,vscode,visualstudio,autocad,git,github,unreal" />
   </a>
 </p>
 
