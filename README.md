@@ -2,7 +2,7 @@
 
 <p align="center"><samp>~</samp></p>
 
-<p align="center"><samp>I'm a 2nd Year Computer Science Student from Italy and an aspirant programmer and developer</samp></p>
+<p align="center"><samp>I'm a 3rd Year Computer Science Student from Italy and an aspirant programmer and developer</samp></p>
 <p align="center"><samp>Besides programming I really enjoy dance games too, like <a href="https://www.youtube.com/watch?v=wiOOOAw2AfY">ITG</a>! 🙂 </samp></p>
 
 
