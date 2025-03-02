@@ -11,21 +11,21 @@
 <p align="center"><samp>Languages I've learned:</samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,python" />
   </a>
 </p>
 
 <p align="center"><samp>Currently learning:</samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,cs,asm" />
+    <img src="https://skillicons.dev/icons?i=kotlin" />
   </a>
 </p>
 
 <p align="center"><samp>Tools I've learned and use(d):</samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,discord,eclipse,vscode,visualstudio,autocad,git,github,unreal" />
+    <img src="https://skillicons.dev/icons?i=idea,discord,eclipse,vscode,visualstudio,autocad,git,github,unreal,unity" />
   </a>
 </p>
 
