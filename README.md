@@ -8,24 +8,10 @@
 
 <p align="center"><samp>~</samp></p>
 
-<p align="center"><samp>Languages I've learned:</samp></p>
+<p align="center"><samp>Tools and languages I've learned and use(d):</samp></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,python" />
-  </a>
-</p>
-
-<p align="center"><samp>Currently learning:</samp></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
-  </a>
-</p>
-
-<p align="center"><samp>Tools I've learned and use(d):</samp></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,discord,eclipse,vscode,visualstudio,autocad,git,github,unreal,unity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,kotlin,python,idea,discord,eclipse,vscode,visualstudio,autocad,git,github,unreal,unity,windows,androidstudio,arduino,blender,firebase,gmail,gradle,linux,notion,ps,postgres,powershell,scala,stackoverflow" />
   </a>
 </p>
 
